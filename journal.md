@@ -1,2 +1,14 @@
 # Journal de bord du projet encadré
-## Apprendre synchroniser ver le dépôt
+- 'git clone <le lien de SSH> : télécharger le dépôt en ligne dans ton dépôt local
+- 'git fetch' : récupérer le status du dépôt en ligne 
+- 'git status' : voir le status du dépôt local
+- 'git pull' télécharger tous les modification du dépôt en ligne dans ton dépôt local
+
+## faire un commit
+- 'git add file'
+- 'git commit -m "message"'
+- 'git push'
+
+## créer un tag
+- 'git tag < nom_tag >'
+- 'git push origin < nom_tag >'
