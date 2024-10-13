@@ -1,0 +1,22 @@
+Exercice 1.a:
+echo "Annotations en 2016 :" > comptes.txt
+grep -r "2016" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2016/ | wc -l >> comptes.txt
+echo "Annotations en 2017 :" >> comptes.txt
+grep -r "2017" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2017/ | wc -l >> comptes.txt
+echo "Annotations en 2018 :" >> comptes.txt
+grep -r "2017" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2018/ | wc -l >> comptes.txt
+
+Exercice 1.b:
+echo "Annotations en 2016 :" > locations.txt
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2016/ | wc -l >> locations.txt
+echo "Annotations en 2017 :" >> locations.txt
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2017/ | wc -l >> locations.txt
+echo "Annotations en 2018 :" >> locations.txt
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2018/ | wc -l >> locations.txt
+
+Exercice 2.a:
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2016/ | cut -f 3 | sort | uniq -i -c | sort -n | tail -n 15 > classement_2016.txt
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2017/ | cut -f 3 | sort | uniq -i -c | sort -n | tail -n 15 > classement_2017.txt
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2018/ | cut -f 3 | sort | uniq -i -c | sort -n | tail -n 15 > classement_2018.txt
+
+

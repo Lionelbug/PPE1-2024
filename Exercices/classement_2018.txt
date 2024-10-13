@@ -1,0 +1,15 @@
+     19 place de la République
+     20 A20
+     20 A61
+     21 A50
+     21 A62
+     21 Strasbourg
+     22 A8
+     22 arc de triomphe
+     24 A7
+     28 A9
+     36 Russie
+     37 États-Unis
+     76 Champs-Élysées
+    165 Paris
+    175 france
