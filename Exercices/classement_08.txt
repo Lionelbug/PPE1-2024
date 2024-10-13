@@ -1,0 +1,15 @@
+      4 Suisse
+      5 Allemagne
+      5 Angoulême
+      5 Canada
+      5 Elysée
+      5 Suède
+      6 Nice
+      7 Barcelone
+      7 Italie
+      7 Londres
+      8 Paris
+      9 Russie
+     12 Brésil
+     47 France
+     88 Rio

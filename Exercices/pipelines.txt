@@ -19,4 +19,6 @@ grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2016/ | cut -f 3 | s
 grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2017/ | cut -f 3 | sort | uniq -i -c | sort -n | tail -n 15 > classement_2017.txt
 grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/2018/ | cut -f 3 | sort | uniq -i -c | sort -n | tail -n 15 > classement_2018.txt
 
+Exercice 2.b:
+grep -r "Location" ~/2024-2025/PPE1/exercice1/Exercice1/ann/*/08 | cut -f 3 | sort | uniq -i -c | sort -n | tail -n 15
 
