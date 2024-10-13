@@ -16,3 +16,4 @@
 # Séance 3
 Cette ligne doit rester après correction
 I AM ERREUR
+## Exercices git correction d’erreurs
