@@ -12,3 +12,5 @@
 ## créer un tag
 - `git tag < nom_tag >`
 - `git push origin < nom_tag >`
+
+# Séance 3
