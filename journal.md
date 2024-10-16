@@ -23,17 +23,21 @@
 - `cat fichier` Afficher le contenu d'un fichier
 - `cat fichier1 fichier2` Concaténer plusieurs fichiers
 - `cat nouveau_fichier` Créer un nouveau fichier
-- `cat fichier > nouveau_fichier` Rediriger la sortie vers un autre fichier [^note]
-  [^note]: Tapez du texte dans le terminal, puis faites Ctrl + D pour sauvegarder.
+- `cat fichier > nouveau_fichier` Rediriger la sortie vers un autre fichier
+
+  *Tapez du texte dans le terminal, puis faites Ctrl + D pour sauvegarder.*
 
 ### wc
 
-- `wc fichier` Compter le nombre de lignes, de mots et de caractères dans un fichier  
+- `wc fichier` Compter le nombre de lignes, de mots et de caractères dans un fichier
+
   *Cela affichera quelque chose comme : 10 50 200 nom_du_fichier.txt*
 - `wc fichier1 fichier2` Compter plusieurs fichiers
-  *Cela affichera quelque chose comme : 10  50 200 fichier1txt*  
-                                       *5  25 100 fichier2.txt*  
-                                       *15  75 300 total*
+
+  *Cela affichera quelque chose comme :*  
+  *10  50 200 fichier1txt*  
+  *5  25 100 fichier2.txt*  
+  *15  75 300 total*
 
 #### option
 
