@@ -1,7 +1,7 @@
 # Journal de bord du projet encadré
 
 - `git clone <le lien de SSH>` : télécharger le dépôt en ligne dans ton dépôt local
-- `git fetch` : récupérer le status du dépôt en ligne 
+- `git fetch` : récupérer le status du dépôt en ligne
 - `git status` : voir le status du dépôt local
 - `git pull` :  télécharger tous les modification du dépôt en ligne dans ton dépôt local
 
@@ -39,13 +39,28 @@
   *5  25 100 fichier2.txt*  
   *15  75 300 total*
 
-#### option
+#### wc option
 
 - `-l` Compter uniquement les lignes
 - `-w` Compter uniquement les mots
 - `-c` Compter uniquement les caractères
 
 ### grep
+
+- `grep "mot" fichier` Rechercher une chaîne spécifique dans un fichier
+
+#### grep option
+
+- `-i` Ignorer la casse
+- `-r` Rechercher de manière récursive dans des dossiers
+- `-c` Afficher uniquement le nombre de lignes qui correspondent
+- `-w` Rechercher des mots complets
+
+### echo
+
+- `echo "text"` Afficher une chaîne de texte simple
+- `echo "text" > fichier` Rediriger la sortie vers un fichier
+- `echo "text" >> fichier` Rediriger la sortie vers un fichier (ajoute à la fin du fichier)
 
 ## Séance 3
 
