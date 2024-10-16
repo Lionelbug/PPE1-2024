@@ -1,4 +1,4 @@
-I AM ERRUR # Journal de bord du projet encadré
+# Journal de bord du projet encadré
 
 - `git clone <le lien de SSH>` : télécharger le dépôt en ligne dans ton dépôt local
 - `git fetch` : récupérer le status du dépôt en ligne
