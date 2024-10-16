@@ -29,14 +29,12 @@
 
 ### wc
 
-- `wc fichier` Compter le nombre de lignes, de mots et de caractères dans un fichier
-
+- `wc fichier` Compter le nombre de lignes, de mots et de caractères dans un fichier<br\>
   *Cela affichera quelque chose comme : 10 50 200 nom_du_fichier.txt*
-- `wc fichier1 fichier2` Compter plusieurs fichiers
-
-  *Cela affichera quelque chose comme : 10  50 200 fichier1.txt*
-                                       *5  25 100 fichier2.txt*
-                                       *15  75 300 total*
+- `wc fichier1 fichier2` Compter plusieurs fichiers<br\>
+  *Cela affichera quelque chose comme : 10  50 200 fichier1txt*<br\>
+                                       *5  25 100 fichier2.txt*<br\>
+                                       *15  75 300 total*<br\>
 
 #### option
 
