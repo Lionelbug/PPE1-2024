@@ -62,16 +62,4 @@
 - `echo "text" > fichier` Rediriger la sortie vers un fichier
 - `echo "text" >> fichier` Rediriger la sortie vers un fichier (ajoute à la fin du fichier)
 
-## Séance 3
 
-Cette ligne doit rester après correction
-I AM ERREUR
-<<<<<<< Updated upstream
-
-## Exercices git correction d'erreurs
-
-=======
-
-## Exercices git Cette ligne va être supprimé
-
->>>>>>> Stashed changes
