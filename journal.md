@@ -23,8 +23,8 @@
 - `cat fichier` Afficher le contenu d'un fichier
 - `cat fichier1 fichier2` Concaténer plusieurs fichiers
 - `cat nouveau_fichier` Créer un nouveau fichier
-- `cat fichier > nouveau_fichier` Rediriger la sortie vers un autre fichier  
-  *Tapez du texte dans le terminal, puis faites Ctrl + D pour sauvegarder.*
+- `cat fichier > nouveau_fichier` Rediriger la sortie vers un autre fichier [^note]
+  [^note]: Tapez du texte dans le terminal, puis faites Ctrl + D pour sauvegarder.
 
 ### wc
 
