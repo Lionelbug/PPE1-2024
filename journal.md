@@ -64,3 +64,4 @@ I AM ERRUR # Journal de bord du projet encadré
 
 # Séance 3
 ## exercices git
+cette ligne doit rester après correction
