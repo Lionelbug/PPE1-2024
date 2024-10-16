@@ -62,4 +62,5 @@
 - `echo "text" > fichier` Rediriger la sortie vers un fichier
 - `echo "text" >> fichier` Rediriger la sortie vers un fichier (ajoute à la fin du fichier)
 
-
+# Séance 3
+## exercices git
