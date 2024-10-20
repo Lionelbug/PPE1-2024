@@ -65,3 +65,6 @@
 # Séance 3
 ## exercices git
 cette ligne doit rester après correction
+
+## exercices 4
+Compter les nombres des lien valides et les liens invalides.
